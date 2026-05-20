@@ -1,2 +1,2 @@
-# SGGW_RAG_Kontytucja
+# SGGW_RAG_Konstytucja
 wyszukiwarka bazująca na konstytucji RP
