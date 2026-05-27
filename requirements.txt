@@ -1,6 +1,7 @@
 langchain
 langchain-core
 langgraph
+langgraph-prebuilt
 pydantic
 huggingface-hub>=0.16.4
 fastapi>=0.95.2
@@ -15,3 +16,5 @@ langchain_chroma
 langchain-classic
 langchain-openai
 langchain-community
+transformers
+torch
